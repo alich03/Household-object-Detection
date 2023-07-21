@@ -1,0 +1,7 @@
+path:  C:\Users\ALI HASNAIN\3D Objects\Household Dataset-final
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 63
+names: ['AC', 'Bathtub', 'Bed Frame', 'Bed', 'Closet', 'Cupboard', 'Desk', 'Dining Table', 'Dish Washer', 'Door', 'Exhaust Fan', 'Exhaust Hood','Faucet', 'Fridge', 'Microwave', 'Oven', 'Sink', 'Sofa', 'Stove', 'TV', 'Thermo Ventilator','Toilet Sink', 'Toilet', 'Washing Machine', 'Water Cubicle', 'Water Heater', 'Windowsill','Chair',  'Computer', 'Monitor', 'Shelf', 'Table', 'Window','Air-conditioner', 'bottle', 'bowl', 'clock', 'cup', 'fork', 'hairdryer', 'kettle', 'key', 'knife',  'pen', 'phone', 'remote-control', 'rice-cooker', 'scissor', 'spoon', 'teapot','Book', 'Curtain', 'Frame', 'Lamp', 'Rug', 'Socket', 'Switch',  'Television', 'Vase','jewellery','laptop','sliper','Watch']
